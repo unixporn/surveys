@@ -1,1 +1,2 @@
-Results and materials associated with the r/unixporn from May 2014 - this was a general survey.
+# Survey Data
+In the interest of openness here's the raw CSV data from any survey we've had. Also included are the graphics made to illustrate the results of the big annual survey.
