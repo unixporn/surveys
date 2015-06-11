@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg3037"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kde.svg"
+   inkscape:export-filename="/home/josh/Code/unixporn/surveys/files/15-05/Finals/windows/kde.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3039">
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="268.33"
+       y1="279.1"
+       id="1"
+       xlink:href="#0"
+       gradientTransform="matrix(1.10526,0,0,1.10526,-134.28026,-295.76492)" />
+    <linearGradient
+       id="0">
+      <stop
+         id="stop5956"
+         stop-color="#dcdcdc" />
+      <stop
+         id="stop5958"
+         stop-color="#f9f9f9"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="348.57573"
+     inkscape:cy="269.42216"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3052" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect4494"
+       width="655"
+       height="625"
+       x="0"
+       y="143" />
+    <rect
+       style="fill:#414141;fill-opacity:1;stroke:none"
+       id="rect3918"
+       width="5"
+       height="70"
+       x="-385"
+       y="618"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:31.66812515px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none;font-family:Sans"
+       x="41.749973"
+       y="240.32167"
+       id="use3057-3"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95808448,1.0437493)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-1"
+         x="41.749973"
+         y="240.32167"
+         style="font-size:55px;font-weight:bold;line-height:0%;fill:#2d2d2d;fill-opacity:0.90196078">Do you use KDE?*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.82796288px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#676767;fill-opacity:0.90196078;stroke:none"
+       x="41.749973"
+       y="278.64505"
+       id="use3057-3-7"
+       sodipodi:linespacing="120%"
+       transform="scale(0.95808448,1.0437493)"><tspan
+         sodipodi:role="line"
+         x="41.749973"
+         y="278.64505"
+         style="font-weight:bold;font-size:11.85854626px;line-height:120.00000477%;fill:#676767;fill-opacity:0.90196078"
+         id="tspan3098">* - this was intended as a joke question and so will not at all be representative of</tspan><tspan
+         sodipodi:role="line"
+         x="41.749973"
+         y="292.87531"
+         style="font-weight:bold;font-size:11.85854626px;line-height:120.00000477%;fill:#676767;fill-opacity:0.90196078"
+         id="tspan3102">the number that actually use KDE on Windows. More info @ windows.kde.org</tspan></text>
+    <rect
+       style="fill:#414141;fill-opacity:1;stroke:none"
+       id="rect3918-6"
+       width="5"
+       height="70"
+       x="594.29932"
+       y="-98.898949"
+       transform="matrix(0.64063926,0.767842,-0.767842,0.64063926,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.3980751px;line-height:0%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none"
+       x="109.36441"
+       y="688.3429"
+       id="use3057-2"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9"
+         x="109.36441"
+         y="688.3429"
+         style="font-weight:bold;font-size:24.78681183px;line-height:0%;fill:#2d2d2d;fill-opacity:0.90196078">As a matter of fact, I do!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.3980751px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none;font-family:Sans"
+       x="479.58749"
+       y="374.87292"
+       id="use3057-2-5"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9-7"
+         x="479.58749"
+         y="374.87292"
+         style="font-size:24.78681183px;font-weight:bold;line-height:0%;fill:#2d2d2d;fill-opacity:0.90196078">What‽</tspan></text>
+    <rect
+       style="color:#000000;fill:#80cc28"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="24.730095"
+       height="24.730038"
+       x="155.83557"
+       y="-639.96094"
+       rx="0"
+       id="rect5967" />
+    <rect
+       style="color:#000000;fill:#f1511b"
+       y="155.83557"
+       x="585.00012"
+       height="24.730095"
+       width="24.730038"
+       rx="0"
+       id="rect5969" />
+    <rect
+       style="color:#000000;fill:#00adef"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="24.730095"
+       height="24.730038"
+       x="186.10547"
+       y="-609.73004"
+       rx="0"
+       id="rect5971" />
+    <rect
+       style="color:#000000;fill:#fbbc09"
+       y="186.10547"
+       x="615.27002"
+       height="24.730095"
+       width="24.730038"
+       rx="0"
+       id="rect5973" />
+    <text
+       xml:space="preserve"
+       style="font-size:31.3980751px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+       x="166.81303"
+       y="506.43524"
+       id="use3057-2-5-5"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9-7-7"
+         x="166.81303"
+         y="506.43524"
+         style="font-size:24.78681183px;font-weight:bold;line-height:0%;fill:#f9f9f9;fill-opacity:1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.3980751px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none;font-family:Sans"
+       x="-448.31006"
+       y="525.61841"
+       id="use3057-2-5-7"
+       sodipodi:linespacing="0%"
+       transform="scale(-0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9-7-5"
+         x="-448.31006"
+         y="525.61841"
+         style="font-size:24.78681183px;font-weight:bold;line-height:0%;fill:#2d2d2d;fill-opacity:0.90196078" /></text>
+    <path
+       style="opacity:1;fill:#003399;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3364"
+       sodipodi:type="arc"
+       sodipodi:cx="568.29523"
+       sodipodi:cy="16.569315"
+       sodipodi:rx="170"
+       sodipodi:ry="170"
+       sodipodi:start="0"
+       sodipodi:end="5.5169432"
+       d="M 738.29523,16.569315 A 170,170 0 0 1 600.66172,183.45973 170,170 0 0 1 410.61981,80.118217 170,170 0 0 1 475.88874,-126.12281 170,170 0 0 1 690.7839,-101.31421 L 568.29523,16.569315 Z"
+       transform="matrix(0.49169518,0.87076739,-0.87076739,0.49169518,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:31.3980751px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none;font-family:Sans"
+       x="364.90353"
+       y="554.39313"
+       id="use3057-2-5-3-9"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9-7-74-8"
+         x="364.90353"
+         y="554.39313"
+         style="font-size:24.78681183px;font-weight:bold;line-height:0%;fill:#f9f9f9;fill-opacity:1">7, 18%</tspan></text>
+    <path
+       id="path3366"
+       style="opacity:1;fill:#3e9ade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       sodipodi:cx="568.29523"
+       sodipodi:cy="16.569315"
+       sodipodi:rx="170"
+       sodipodi:ry="170"
+       sodipodi:start="5.5169509"
+       sodipodi:end="0"
+       d="m 690.78481,-101.31327 a 170,170 0 0 1 47.51042,117.882585 l -170,0 z"
+       transform="matrix(0.49169518,0.87076739,-0.87076739,0.49169518,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.3980751px;line-height:0%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none"
+       x="374.98187"
+       y="539.77307"
+       id="use3057-2-5-3"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9-7-74"
+         x="374.98187"
+         y="539.77307"
+         style="font-weight:bold;font-size:24.78681183px;line-height:0%;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1">80</tspan><tspan
+         sodipodi:role="line"
+         x="374.98187"
+         y="539.77307"
+         style="font-weight:bold;font-size:24.78681183px;line-height:0%;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan3368"
+         dy="25">12.2%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.3980751px;line-height:0%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196078;stroke:none"
+       x="208.47574"
+       y="465.35406"
+       id="use3057-2-5-3-0"
+       sodipodi:linespacing="0%"
+       transform="scale(0.95915763,1.0425815)"><tspan
+         sodipodi:role="line"
+         id="tspan3061-9-7-74-80"
+         x="208.47574"
+         y="465.35406"
+         style="font-weight:bold;font-size:37.5px;line-height:0%;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         dy="-35">576</tspan><tspan
+         sodipodi:role="line"
+         x="208.47574"
+         y="465.35406"
+         style="font-weight:bold;font-size:37.5px;line-height:0%;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="tspan3368-1">87.8%</tspan></text>
+  </g>
+</svg>
