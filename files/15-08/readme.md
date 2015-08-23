@@ -1,0 +1,1 @@
+This was a survey which was trying to determine exactly what people see as a default setup. The results weren't very clean cut but helpful none the less. We also asked about adding a new host to our list and got a little bit of feedback on the way we do things.
