@@ -1,6 +1,6 @@
 # unixporn [colorcontest] results
 
-so the month of July was [color scheme month](https://redd.it/6feh1l) on [unixporn](https://reddit.com/r/unixporn). we got a lot of great entries, so thanx to everone who submitted. i'm happy to report the __winner__ of the contest is **[tudurom](https://tudorr.xyz/)**! here's a little gallery of all the entires. along with post title and author are a __source__ link which leads to the initial reddit post. most contain more details about the setup. and a __colors__ link contains a local copy of the submitted color schemes for archival purposes.
+so the month of July was [color scheme month](https://redd.it/6feh1l) on [unixporn](https://reddit.com/r/unixporn). we got a lot of great entries, so thanx to everone who submitted. i'm happy to report the __winner__ of the contest is **[tudurom](https://tudorr.xyz/)**! here's a little gallery of all the entries. along with post title and author are a __source__ link which leads to the initial reddit post. most contain more details about the setup. and a __colors__ link contains a local copy of the submitted color schemes for archival purposes.
 
 ------------------------------------
 
