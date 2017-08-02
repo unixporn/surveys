@@ -73,6 +73,6 @@ perfect fit by [Alternate_Data](https://www.reddit.com/user/Alternate_Data) // [
 dwm on debian by [balkenbrij](https://www.reddit.com/user/balkenbrij) // [source](https://redd.it/6qqf94) :: [colors](colors/balkenbrij)
 ![](ui/balkenbrij.png)
 
-blaque magick (posthumous entry) by [x_ero](https://www.reddit.com/user/x_ero) // [source](https://redd.it/6r6gxn) :: [https://redd.it/6r6gxn](colors/blaquemagick)
+blaque magick (posthumous entry) by [x_ero](https://www.reddit.com/user/x_ero) // [source](https://redd.it/6r6gxn) :: [colors](colors/blaquemagick)
 ![](ui/blaquemagick.png)
 
