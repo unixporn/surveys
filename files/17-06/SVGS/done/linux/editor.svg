@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,10 +40,10 @@
      inkscape:window-width="1580"
      inkscape:window-height="840"
      id="namedview242"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="0.81403512"
-     inkscape:cx="663.61215"
-     inkscape:cy="382.88895"
+     inkscape:cx="607.14911"
+     inkscape:cy="398.88912"
      inkscape:window-x="10"
      inkscape:window-y="50"
      inkscape:window-maximized="0"
@@ -327,10 +327,10 @@
   <rect
      id="rect96"
      x="510"
-     y="273"
+     y="323"
      width="448.35001"
-     height="203.36"
-     style="fill:#99ccff;stroke:#3bc43b;stroke-width:0.078586" />
+     height="153.36"
+     style="fill:#99ccff;stroke:#3bc43b;stroke-width:0.06824463" />
   <path
      inkscape:connector-curvature="0"
      id="path98"
@@ -346,55 +346,44 @@
   <rect
      id="rect100"
      x="505"
-     y="268"
+     y="318"
      width="448.35001"
-     height="203.36"
-     style="fill:#deffff;stroke:#3bc43b;stroke-width:0.078586" />
+     height="153.36"
+     style="fill:#deffff;stroke:#3bc43b;stroke-width:0.06824463" />
   <text
      id="text104"
-     x="542.76941"
-     y="307.90012"
+     x="539.56342"
+     y="343.79181"
      transform="scale(0.95793808,1.0439088)"
      xml:space="preserve"
      style="font-size:11.99989891px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"><tspan
        id="tspan102"
        style="font-weight:bold;font-size:34.99970627px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
-       x="542.76941"
-       y="307.90012">Other?</tspan></text>
+       x="539.56342"
+       y="343.79181">Other?</tspan></text>
   <text
      id="text114"
-     x="694.13599"
-     y="283.95206"
+     x="697.34198"
+     y="324.55087"
      transform="scale(0.95793808,1.0439088)"
      xml:space="preserve"
      style="font-size:11.99989891px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"><tspan
        id="tspan106"
        style="font-weight:bold;font-size:14.99987316px;line-height:120.00000477%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
-       x="694.13599"
-       y="283.95206">Amongst the distros submitted,</tspan><tspan
+       x="697.34198"
+       y="324.55087">Amongst the editors submitted,</tspan><tspan
        id="tspan108"
        style="font-weight:bold;font-size:14.99987316px;line-height:120.00000477%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
-       x="694.13599"
-       y="301.9519">some had a smaller but never</tspan><tspan
+       x="697.34198"
+       y="342.55072">some had a smaller but never</tspan><tspan
        id="tspan110"
        style="font-weight:bold;font-size:14.99987316px;line-height:120.00000477%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
-       x="694.13599"
-       y="319.95175">forgotten share. Here they are!</tspan><tspan
+       x="697.34198"
+       y="360.55057">forgotten shar. Here they are!</tspan><tspan
        id="tspan112"
        style="font-weight:bold;font-size:14.99987316px;line-height:120.00000477%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
-       x="694.13599"
-       y="337.9516"> </tspan></text>
-  <text
-     id="text118"
-     x="761.89752"
-     y="352.75748"
-     transform="scale(0.95794305,1.0439034)"
-     xml:space="preserve"
-     style="font-size:11.99996185px;line-height:148.29996824%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"><tspan
-       id="tspan116"
-       style="font-weight:bold;font-size:14.99995136px;line-height:148.29996824%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"
-       x="761.89752"
-       y="352.75748">openSUSE (103), elementaryOS (97), Chrome OS (88),</tspan></text>
+       x="697.34198"
+       y="378.55042"> </tspan></text>
   <text
      id="text124"
      x="185.69493"
@@ -605,61 +594,6 @@
        x="944.52002"
        y="693.26556">Neovim</tspan></text>
   <text
-     id="text212"
-     x="761.89752"
-     y="370.34003"
-     transform="scale(0.95794305,1.0439034)"
-     xml:space="preserve"
-     style="font-size:11.99996185px;line-height:148.29996824%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"><tspan
-       id="tspan210"
-       style="font-weight:bold;font-size:14.99995136px;line-height:148.29996824%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"
-       x="761.89752"
-       y="370.34003">Void (67), CentOS (53), Slackware (44), Solus (43),</tspan></text>
-  <text
-     id="text216"
-     x="761.79346"
-     y="388.41406"
-     transform="scale(0.95794305,1.0439034)"
-     xml:space="preserve"
-     style="font-size:11.99996185px;line-height:148.29996824%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"><tspan
-       id="tspan214"
-       style="font-weight:bold;font-size:14.99995136px;line-height:148.29996824%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"
-       x="761.79346"
-       y="388.41406">Neon (24), BunsenLabs (22), RHEL (16), Alpine (15),</tspan></text>
-  <text
-     id="text220"
-     x="761.89752"
-     y="407.18939"
-     transform="scale(0.95794305,1.0439034)"
-     xml:space="preserve"
-     style="font-size:11.99996185px;line-height:148.29996824%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"><tspan
-       id="tspan218"
-       style="font-weight:bold;font-size:14.66695309px;line-height:148.29996824%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"
-       x="761.89752"
-       y="407.18939">NixOS (14), LMDE (13), Kali (12), Crux (12), Funtoo (9),</tspan></text>
-  <text
-     id="text224"
-     x="761.89752"
-     y="425.38818"
-     transform="scale(0.95794305,1.0439034)"
-     xml:space="preserve"
-     style="font-size:11.99996185px;line-height:148.29996824%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"><tspan
-       id="tspan222"
-       style="font-weight:bold;font-size:14.66695309px;line-height:148.29996824%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"
-       x="761.89752"
-       y="425.38818">Gallium (7), Puppy (5), ArchLabs (5), Parabola (5), </tspan></text>
-  <text
-     id="text228"
-     x="761.89752"
-     y="443.01459"
-     transform="scale(0.95794305,1.0439034)"
-     xml:space="preserve"
-     style="font-size:13.99995518px;line-height:148.29996824%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"><tspan
-       id="tspan226"
-       style="font-weight:bold;font-size:13.99995518px;line-height:148.29996824%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99998677"
-       x="761.89752"
-       y="443.01459">Tails (4), Deepin (4), LFS (4), and 50 more with less than 3</tspan></text>
-  <text
      id="text86-3"
      x="628.58618"
      y="692.86853"
@@ -677,18 +611,49 @@
      y="110.6801"
      id="text1204"><tspan
        sodipodi:role="line"
-       id="tspan1202"
        x="41.03157"
        y="110.6801"
-       style="font-weight:bold;fill:#757575;fill-opacity:1">I GET IT I FORGOT TO INCLUDE A NANO OPTION SORRY! I didn't think anyone would actually</tspan><tspan
+       style="font-weight:bold;fill:#757575;fill-opacity:1"
+       id="tspan1208">JESUS I GET IT I FORGOT TO INCLUDE A NANO OPTION. I didn't think anyone would actually be</tspan><tspan
        sodipodi:role="line"
        x="41.03157"
        y="130.6801"
        style="font-weight:bold;fill:#757575;fill-opacity:1"
-       id="tspan1206">be using it as your main editor, but given that some of you are actually using WINE to run</tspan><tspan
+       id="tspan125">using it as their editor, but given that some of you are actually using WINE to run Notepad++</tspan><tspan
        sodipodi:role="line"
        x="41.03157"
        y="150.6801"
        style="font-weight:bold;fill:#757575;fill-opacity:1"
-       id="tspan1208">Notepad++ clearly I overestimated you. At least vim and Atom are in their correct places.</tspan></text>
+       id="tspan120">I clearly overestimated you all. At least vim and Atom are in their correct places.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3e4141;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="514.10559"
+     y="400.69397"
+     id="text120"><tspan
+       sodipodi:role="line"
+       id="tspan118"
+       x="514.10559"
+       y="400.69397"
+       style="font-weight:bold;fill:#3e4141;fill-opacity:1">kate (44), geany (39), mousepad (28), micro (18), leafpad (15),</tspan><tspan
+       sodipodi:role="line"
+       x="514.10559"
+       y="415.69397"
+       style="font-weight:bold;fill:#3e4141;fill-opacity:1"
+       id="tspan132">pulma (13), kwrite, spacemacs (both 12), brackets (11), Intelij</tspan><tspan
+       sodipodi:role="line"
+       x="514.10559"
+       y="430.69397"
+       style="font-weight:bold;fill:#3e4141;fill-opacity:1"
+       id="tspan137">IDEA (8), scratch (7), ed (6), vi, vis (both 5), Jetbrains, kakoune</tspan><tspan
+       sodipodi:role="line"
+       x="514.10559"
+       y="445.69397"
+       style="font-weight:bold;fill:#3e4141;fill-opacity:1"
+       id="tspan141">(all 4), notepadqq, phpstorm, nvim (all 3), and then about 30</tspan><tspan
+       sodipodi:role="line"
+       x="514.10559"
+       y="460.69397"
+       style="font-weight:bold;fill:#3e4141;fill-opacity:1"
+       id="tspan143">more which all had either 2 or 1 users each.</tspan></text>
 </svg>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="640"
+   width="810"
+   version="1.1"
+   id="svg240"
+   sodipodi:docname="hardware.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata246">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs244">
+    <path
+       d="M14.24,10.216c-0.093,0-0.185,0-0.278,0.001c-0.087,0.001-0.174,0.002-0.261,0.004     c-0.189,0.005-0.38,0.016-0.567,0.05c-0.19,0.035-0.367,0.09-0.539,0.178c-0.17,0.086-0.325,0.199-0.46,0.334     c-0.135,0.135-0.248,0.29-0.334,0.459c-0.088,0.173-0.144,0.35-0.177,0.54c-0.034,0.187-0.045,0.378-0.05,0.567     c-0.002,0.087-0.003,0.174-0.004,0.261c0,0.076-0.001,0.151-0.001,0.227v0.083v31.906v0.083c0,0.076,0.001,0.151,0.001,0.227     c0.001,0.087,0.002,0.174,0.004,0.261c0.005,0.189,0.016,0.38,0.05,0.567c0.034,0.19,0.09,0.367,0.177,0.54     c0.086,0.17,0.199,0.325,0.334,0.46c0.135,0.135,0.29,0.247,0.46,0.333c0.173,0.088,0.349,0.144,0.539,0.178     c0.187,0.033,0.378,0.045,0.567,0.05c0.087,0.003,0.174,0.003,0.261,0.003c0.104,0.001,0.206,0.001,0.31,0.001h34.28     c0.103,0,0.206,0,0.31-0.001c0.087,0,0.174-0.001,0.261-0.003c0.189-0.005,0.38-0.016,0.567-0.05     c0.19-0.034,0.367-0.09,0.539-0.178c0.17-0.086,0.325-0.199,0.46-0.333c0.135-0.135,0.248-0.29,0.334-0.46     c0.088-0.172,0.143-0.349,0.177-0.54c0.034-0.187,0.045-0.378,0.05-0.567c0.002-0.087,0.003-0.174,0.004-0.261     c0-0.089,0-0.179,0-0.269V12.878c0-0.09,0-0.179,0-0.269c-0.001-0.087-0.002-0.174-0.004-0.261     c-0.005-0.189-0.016-0.38-0.05-0.567c-0.034-0.19-0.09-0.367-0.177-0.54c-0.086-0.17-0.2-0.324-0.334-0.459     c-0.135-0.135-0.29-0.248-0.46-0.334c-0.172-0.088-0.349-0.143-0.539-0.178c-0.187-0.033-0.378-0.045-0.567-0.05     c-0.087-0.002-0.174-0.003-0.261-0.004c-0.093-0.001-0.185-0.001-0.278-0.001H14.24z"
+       id="SVGID_1_" />
+    <path
+       d="M13.508,10.216h35.809c1.071,0,1.938,0.868,1.938,1.938v33.435c0,1.07-0.868,1.938-1.938,1.938H13.508       c-1.071,0-1.938-0.868-1.938-1.938V12.154C11.57,11.084,12.437,10.216,13.508,10.216z"
+       id="SVGID_3_" />
+    <path
+       d="M49.316,10.216H32.354c-0.849,1.613-2.322,4.843-3.147,10.176c-0.951,6.15-1.024,9.531-1.066,10.224       c-0.042,0.693,0.379,1.018,0.969,1.018c0.591,0,3.692,0,3.925,0c0.233,0,1.114-0.097,1.114,1.066       c0,1.163,0.021,3.661,0.291,6.929c0.239,2.892,0.845,6.678,1.155,7.898h13.721c1.071,0,1.938-0.868,1.938-1.938V12.154       C51.255,11.084,50.387,10.216,49.316,10.216z"
+       id="SVGID_7_" />
+    <filter
+       height="37.311"
+       width="39.685"
+       y="10.216"
+       x="11.57"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter">
+      <feColorMatrix
+         id="feColorMatrix289"
+         result="source"
+         color-interpolation-filters="sRGB"
+         values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <clipPath
+       id="SVGID_2_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_1_"
+         overflow="visible"
+         id="use235" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1580"
+     inkscape:window-height="840"
+     id="namedview242"
+     showgrid="false"
+     inkscape:zoom="0.57560975"
+     inkscape:cx="439.84866"
+     inkscape:cy="443.52234"
+     inkscape:window-x="10"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g238">
+    <inkscape:grid
+       type="xygrid"
+       id="grid358" />
+  </sodipodi:namedview>
+  <g
+     transform="translate(0,-440)"
+     id="g238">
+    <rect
+       style="fill:#f9f9f9;stroke-width:0.74079722"
+       height="640"
+       width="810"
+       y="440"
+       x="0"
+       id="rect2" />
+    <text
+       style="font-size:11.99968815px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99997407"
+       xml:space="preserve"
+       transform="scale(0.95810486,1.0437271)"
+       y="484.7738"
+       x="38.80217"
+       id="text40"><tspan
+         y="484.7738"
+         x="38.80217"
+         style="font-weight:bold;font-size:46.66666794px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99997407"
+         id="tspan38">What do you use it on?</tspan></text>
+    <text
+       style="line-height:141.79997444%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#676767;fill-opacity:0.90196001"
+       xml:space="preserve"
+       transform="scale(0.95808,1.0437)"
+       y="440.71884"
+       x="41.749977"
+       id="text56"><tspan
+         y="440.71884"
+         x="41.749977"
+         style="font-weight:bold;font-size:11.85900021px;line-height:141.79997444%;font-family:sans-serif;fill:#676767;fill-opacity:0.90196001"
+         id="tspan54" /></text>
+    <rect
+       style="opacity:0.9;fill:#c5c5c5;stroke-width:0.61574906"
+       transform="scale(-1)"
+       height="400"
+       width="5"
+       y="-1050"
+       x="-370"
+       id="rect8" />
+    <rect
+       style="opacity:0.9;fill:#c5c5c5;stroke-width:0.61574906"
+       transform="scale(-1)"
+       height="400"
+       width="5"
+       y="-1050"
+       x="-495"
+       id="rect10" />
+    <rect
+       style="opacity:0.9;fill:#c5c5c5;stroke-width:0.61574906"
+       transform="scale(-1)"
+       height="400"
+       width="5"
+       y="-1050"
+       x="-620"
+       id="rect12" />
+    <rect
+       style="opacity:0.9;fill:#c5c5c5;stroke-width:0.61574906"
+       transform="scale(-1)"
+       height="400"
+       width="5"
+       y="-1050"
+       x="-745"
+       id="rect14" />
+    <rect
+       style="opacity:0.9;fill:#f6ecec;fill-opacity:1;stroke-width:1.09896743"
+       height="500"
+       width="50"
+       y="-740"
+       x="700"
+       id="rect16"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.9;fill:#2d2d2f;fill-opacity:0.94118;stroke-width:1.06691039"
+       height="535"
+       width="10"
+       y="-765"
+       x="670"
+       id="rect18"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.9;fill:#2d2d2f;fill-opacity:0.94118;stroke-width:0.60158521"
+       transform="scale(-1)"
+       height="380"
+       width="10"
+       y="-1060"
+       x="-240"
+       id="rect20" />
+    <text
+       style="font-size:12.00016308px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001359"
+       xml:space="preserve"
+       transform="scale(0.96247696,1.0389859)"
+       y="617.93646"
+       x="348.11539"
+       id="text24"><tspan
+         y="617.93646"
+         x="348.11539"
+         style="font-weight:bold;font-size:31.81443024px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001359"
+         id="tspan22">25%</tspan></text>
+    <text
+       style="line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001"
+       xml:space="preserve"
+       transform="scale(0.95419921,1.0479992)"
+       y="612.94519"
+       x="477.6871"
+       id="text28"><tspan
+         y="612.94519"
+         x="477.6871"
+         style="font-weight:bold;font-size:31.54000092px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001"
+         id="tspan26">50%</tspan></text>
+    <text
+       style="font-size:12.00004196px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00000346"
+       xml:space="preserve"
+       transform="scale(0.95831668,1.0434964)"
+       y="615.23688"
+       x="605.90271"
+       id="text32"><tspan
+         y="615.23688"
+         x="605.90271"
+         style="font-weight:bold;font-size:31.67610931px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00000346"
+         id="tspan30">75%</tspan></text>
+    <text
+       style="font-size:11.99968815px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99997407"
+       xml:space="preserve"
+       transform="scale(0.95810486,1.0437271)"
+       y="615.06549"
+       x="728.89954"
+       id="text36"><tspan
+         y="615.06549"
+         x="728.89954"
+         style="font-weight:bold;font-size:31.6671772px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99997407"
+         id="tspan34">100%</tspan></text>
+    <text
+       style="font-size:26.66666603px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.95915027,1.0425895)"
+       y="706.12341"
+       x="288.49371"
+       id="text44"><tspan
+         y="706.12341"
+         x="225.58681"
+         style="font-weight:bold;font-size:33.33333206px;line-height:0%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         id="tspan42">MacBook</tspan></text>
+    <rect
+       style="opacity:0.9;fill:#f6ecec;fill-opacity:1;stroke-width:2.31869459"
+       height="500"
+       width="50"
+       y="-740"
+       x="910"
+       id="rect60"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.9;fill:#f6ecec;fill-opacity:1;stroke-width:2.42535615"
+       height="500"
+       width="50"
+       y="-740"
+       x="980"
+       id="rect62"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.9;fill:#f6ecec;fill-opacity:1;stroke-width:1.66666663"
+       height="500"
+       width="50"
+       y="-740"
+       x="840"
+       id="rect66"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.9;fill:#f6ecec;fill-opacity:1;stroke-width:1.35085809"
+       height="500"
+       width="50"
+       y="-740"
+       x="770"
+       id="rect74"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:0.9;fill:#b1afe9;fill-opacity:1;stroke-width:0.98540062"
+       height="402"
+       width="50"
+       y="-642"
+       x="700"
+       id="rect489"
+       transform="rotate(90)" />
+    <text
+       style="font-size:26.66666603px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.95915027,1.0425895)"
+       y="773.26392"
+       x="288.49371"
+       id="text499"><tspan
+         y="773.26392"
+         x="225.58681"
+         style="font-weight:bold;font-size:33.33333206px;line-height:0%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         id="tspan497">Hackintosh</tspan></text>
+    <rect
+       transform="rotate(90)"
+       id="rect501"
+       x="770"
+       y="-309"
+       width="50"
+       height="69"
+       style="opacity:0.9;fill:#b1afe9;fill-opacity:1;stroke-width:0.40824828" />
+    <text
+       id="text505"
+       x="288.49371"
+       y="840.40442"
+       transform="scale(0.95915027,1.0425895)"
+       xml:space="preserve"
+       style="font-size:26.66666603px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"><tspan
+         id="tspan503"
+         style="font-weight:bold;font-size:33.33333206px;line-height:0%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         x="225.58681"
+         y="840.40442">iMac</tspan></text>
+    <rect
+       style="opacity:0.9;fill:#b1afe9;fill-opacity:1;stroke-width:0.35440636"
+       height="52"
+       width="50"
+       y="-292"
+       x="840"
+       id="rect507"
+       transform="rotate(90)" />
+    <text
+       style="font-size:26.66666603px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.95915027,1.0425895)"
+       y="907.54492"
+       x="288.49371"
+       id="text511"><tspan
+         y="907.54492"
+         x="225.58681"
+         style="font-weight:bold;font-size:33.33333206px;line-height:0%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         id="tspan509">MacMini</tspan></text>
+    <rect
+       transform="rotate(90)"
+       id="rect513"
+       x="910"
+       y="-268"
+       width="50"
+       height="28"
+       style="opacity:0.9;fill:#b1afe9;fill-opacity:1;stroke-width:0.26006317" />
+    <text
+       id="text517"
+       x="288.49371"
+       y="974.68542"
+       transform="scale(0.95915027,1.0425895)"
+       xml:space="preserve"
+       style="font-size:26.66666603px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"><tspan
+         id="tspan515"
+         style="font-weight:bold;font-size:33.33333206px;line-height:0%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         x="225.58681"
+         y="974.68542">Mac Pro</tspan></text>
+    <rect
+       style="opacity:0.9;fill:#b1afe9;fill-opacity:1;stroke-width:0.20851442"
+       height="18"
+       width="50"
+       y="-258"
+       x="980"
+       id="rect519"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:64.19999599%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.404663"
+       y="536.66309"
+       id="text569"><tspan
+         sodipodi:role="line"
+         x="37.404663"
+         y="536.66309"
+         style="font-weight:bold;font-size:13.33333302px;line-height:64.19999599%;fill:#757575;fill-opacity:1"
+         id="tspan579">The popularity of the MacBook line wasn't surprising, especially accounting for how</tspan><tspan
+         sodipodi:role="line"
+         x="37.404663"
+         y="553.78308"
+         style="font-weight:bold;font-size:13.33333302px;line-height:64.19999599%;fill:#757575;fill-opacity:1"
+         id="tspan599">many people gave it as their reason for using macOS. I couldn't help but laugh at</tspan><tspan
+         sodipodi:role="line"
+         x="37.404663"
+         y="570.90308"
+         style="font-weight:bold;font-size:13.33333302px;line-height:64.19999599%;fill:#757575;fill-opacity:1"
+         id="tspan603">how many people were outraged that I'd dare merge the MacBook, MacBook Pro,</tspan><tspan
+         sodipodi:role="line"
+         x="37.404663"
+         y="588.02307"
+         style="font-weight:bold;font-size:13.33333302px;line-height:64.19999599%;fill:#757575;fill-opacity:1"
+         id="tspan607">and Air lines all into one. They're all just laptops guys, get over it.</tspan></text>
+    <g
+       clip-path="url(#SVGID_2_)"
+       id="g310"
+       transform="matrix(2.3270272,0,0,2.3270272,670.51678,440.56203)">
+      <g
+         id="g268">
+        <defs
+           id="defs239" />
+        <clipPath
+           id="SVGID_4_">
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             style="overflow:visible"
+             xlink:href="#SVGID_3_"
+             overflow="visible"
+             id="use241" />
+        </clipPath>
+        <linearGradient
+           id="SVGID_5_"
+           gradientUnits="userSpaceOnUse"
+           x1="23.5828"
+           y1="10.2161"
+           x2="23.5828"
+           y2="47.526901">
+          <stop
+             offset="0.007"
+             style="stop-color:#17E3FF"
+             id="stop244" />
+          <stop
+             offset="0.5058"
+             style="stop-color:#18B5DC"
+             id="stop246" />
+          <stop
+             offset="1"
+             style="stop-color:#1A7BB3"
+             id="stop248" />
+        </linearGradient>
+        <path
+           style="fill:url(#SVGID_5_)"
+           inkscape:connector-curvature="0"
+           clip-path="url(#SVGID_4_)"
+           d="M 32.354,10.216 H 13.508 c -1.07,0 -1.938,0.868 -1.938,1.938 v 33.435 c 0,1.07 0.868,1.938 1.938,1.938 h 22.088 c -0.31,-1.22 -0.916,-5.006 -1.155,-7.898 -0.27,-3.268 -0.291,-5.766 -0.291,-6.929 0,-0.997 -0.648,-1.068 -0.979,-1.068 -0.055,0 -0.102,0.002 -0.135,0.002 -0.233,0 -3.334,0 -3.925,0 -0.564,0 -0.973,-0.296 -0.972,-0.926 0,-0.03 0.001,-0.06 0.003,-0.091 0.042,-0.693 0.115,-4.074 1.066,-10.224 0.824,-5.334 2.297,-8.564 3.146,-10.177"
+           id="path251" />
+        <g
+           clip-path="url(#SVGID_4_)"
+           id="g266">
+          <image
+             style="overflow:visible;opacity:0.75"
+             overflow="visible"
+             width="110"
+             height="169"
+             xlink:href="data:image/png;base64,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 ujOyEnDgAAAAAElFTkSuQmCC"
+             transform="matrix(0.24,0,0,0.24,26.2003,9.3923)"
+             id="image253" />
+          <g
+             id="g264">
+            <linearGradient
+               id="SVGID_6_"
+               gradientUnits="userSpaceOnUse"
+               x1="39.696701"
+               y1="10.2161"
+               x2="39.696701"
+               y2="47.526901">
+              <stop
+                 offset="0"
+                 style="stop-color:#F7F7F7"
+                 id="stop255" />
+              <stop
+                 offset="0.5"
+                 style="stop-color:#EAF0F6"
+                 id="stop257" />
+              <stop
+                 offset="0.9988"
+                 style="stop-color:#DCE8F4"
+                 id="stop259" />
+            </linearGradient>
+            <path
+               style="clip-rule:evenodd;fill:url(#SVGID_6_);fill-rule:evenodd"
+               inkscape:connector-curvature="0"
+               d="M 49.316,10.216 H 32.354 c -0.849,1.613 -2.322,4.843 -3.147,10.176 -0.951,6.15 -1.024,9.531 -1.066,10.224 -0.042,0.693 0.379,1.018 0.969,1.018 0.591,0 3.692,0 3.925,0 0.233,0 1.114,-0.097 1.114,1.066 0,1.163 0.021,3.661 0.291,6.929 0.239,2.892 0.845,6.678 1.155,7.898 h 13.721 c 1.071,0 1.938,-0.868 1.938,-1.938 V 12.154 c 0.001,-1.07 -0.867,-1.938 -1.938,-1.938 z"
+               id="path262" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g306">
+        <defs
+           id="defs271" />
+        <clipPath
+           id="SVGID_8_">
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             style="overflow:visible"
+             xlink:href="#SVGID_7_"
+             overflow="visible"
+             id="use273" />
+        </clipPath>
+        <g
+           id="top_2_"
+           clip-path="url(#SVGID_8_)">
+          <g
+             id="g287">
+            <g
+               id="g285">
+              <linearGradient
+                 id="SVGID_9_"
+                 gradientUnits="userSpaceOnUse"
+                 x1="31.412201"
+                 y1="10.2161"
+                 x2="31.412201"
+                 y2="47.526901">
+                <stop
+                   offset="7.772600e-04"
+                   style="stop-color:#F5F5F5"
+                   id="stop276" />
+                <stop
+                   offset="0.5019"
+                   style="stop-color:#E5EBF1"
+                   id="stop278" />
+                <stop
+                   offset="0.9984"
+                   style="stop-color:#D7E3EF"
+                   id="stop280" />
+              </linearGradient>
+              <path
+                 style="clip-rule:evenodd;fill:url(#SVGID_9_);fill-rule:evenodd"
+                 inkscape:connector-curvature="0"
+                 d="m 13.508,10.216 h 35.809 c 1.071,0 1.938,0.868 1.938,1.938 v 33.435 c 0,1.07 -0.868,1.938 -1.938,1.938 H 13.508 c -1.071,0 -1.938,-0.868 -1.938,-1.938 V 12.154 c 0,-1.07 0.867,-1.938 1.938,-1.938 z"
+                 id="path283" />
+            </g>
+          </g>
+          <defs
+             id="defs292" />
+          <mask
+             maskUnits="userSpaceOnUse"
+             x="11.57"
+             y="10.216"
+             width="39.685"
+             height="37.311"
+             id="SVGID_10_">
+            <g
+               style="filter:url(#Adobe_OpacityMaskFilter)"
+               id="g296">
+              <image
+                 style="overflow:visible"
+                 overflow="visible"
+                 width="183"
+                 height="173"
+                 xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA EAMCAwYAAAKsAAAEnAAAB9b/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAK8AvAMBIgACEQEDEQH/ xACVAAEBAQEAAwEAAAAAAAAAAAAABgcFAQIDBAEBAAAAAAAAAAAAAAAAAAAAABAAAAMGBwEBAQAA AAAAAAAAAAUWAgMEFTYHQDI0NQYXRwEUcBEAAAUBARACAQQDAAAAAAAAAAECAwRyM0ARcZGhsRLS k7PD0zSUNYUhExQQYdEyMUFSEgEAAAAAAAAAAAAAAAAAAABw/9oADAMBAAIRAxEAAADncDqfE/C0 j3M0aWM0aWM0aWM0aWM0aWM0aWM0aWM0aWM0aVOkvpuRawRdFO0ZcgAAAAAAAAczp80xLV8o1ci6 Ocoy5AAAAAAAAA5vS5piWr5Rq5F0c5RlyAAAAAAAABzelzTEtXyjVyLo5yjLkAAAAAAAADm9LmmJ avlGrkXRzlGXIAAAAAAAAHN6XNMS1fKNXIujnKMuQAAAAAAAAOb0uaYlq+UauRdHOUZcgAAAAAAA Ac3pc0xLV8o1ci6Ocoy5AAAAAAAAA5vS5piWr5Rq5F0c53y9ePIAAAAAAAA5vS5Ji2r5Rq5F8vv8 AqfaUFWlBVpQVaUFWlBVpQVaUFWlBVpQVfF5w5+sZvpp/9oACAECAAEFAP4J/9oACAEDAAEFAP4J /9oACAEBAAEFAOcG5tC8jUB8FAfBQHwUB8FAfBQHwUB8FAfBQHwUB8FAfBQHwUB8FAfBQHwUB8FA fBQHwUB8FAfBQHwUB8P1RKEuBVHGOPfTh+74GTfGUISBCEgQhIEISBCEgQhIEISBCEgQhIEISBCE gQhIEISBCEgQhIEISBCEg+8EJRybhbmDhx55cCqLbM/Py4PkLPz6VtZvPLgVRbbSYM/2tvN55cCq LbaTBn+1t5vPLgVRbbSYM/2tvN55cCqLbaTBn+1t5vPLgVRbbSYM/wBrbzeeXAqi22kwZ/tbebzy 4FUW20mDP9rbzeeXAqi22kwZ/tbebzy4FUW20mDP9rbzeeXAqi22kwZ/tbebzy4FUW20mDP9rbze eXAqi22kwZ/tbebzy4FUW20mDP8Aa283nlwKottpMGf7W3m88uBVFttJgz/a283nlwKottpMGf7W 3m88uBVFt3zHxxg+SPmHZW1m88uBVBOcRBVEMXJess9lvB2W8HZbwdlvB2W8HZbwdlvB2W8HZbwd lvB2W8HZbwdlvB2W8HZbwdlvB2W8H25bwHnLoo2djzznBXExPI5JGiSRokkaJJGiSRokkaJJGiSR okkaJJGiSRokkaJJGiSRokkaJJGiSRokkaJJGiSRokkaJJGj8zxCf//aAAgBAgIGPwAE/9oACAED AgY/AAT/2gAIAQEBBj8AkMxZshhpKWzJtt1aElfQkzvJSoiHk5e3c1h5OXt3NYeTl7dzWHk5e3c1 h5OXt3NYeTl7dzWHk5e3c1h5OXt3NYeTl7dzWHk5e3c1h5OXt3NYeTl7dzWHk5e3c1h5OXt3NYeT l7dzWHk5e3c1h5OXt3NYeTl7dzWHk5e3c1h5OXt3NYeTl7dzWHk5e3c1h+X9y/yfwNP79I/s09C/ pad+/f8A3EmhrdpBm5f+pJ4wWk0kzwCxTiFinELFOIWKcQsU4hYpxCxTiFinELFOIWKcQsU4hYpx CxTiFinELFOIWKcQsU4h8NJxBUiIV7RK/eL/AAf6eu4Yk0NbtIWf+9I7kev/APJ5geEx67hiTQ1u 0hyo7kepPMDwmPXcMSaGt2kOVHcj1J5geEx67hiTQ1u0hyo7kepPMDwmPXcMSaGt2kOVHcj1J5ge Ex67hiTQ1u0hyo7kepPMDwmPXcMSaGt2kOVHcj1J5geEx67hiTQ1u0hyo7kepPMDwmPXcMSaGt2k OVHcj1J5geEx67hiTQ1u0hyo7kepPMDwmPXcMSaGt2kOVHcj1J5geEx67hiTQ1u0hyo7kepPMDwm PXcMSaGt2kOVHcj1J5geEx67hiTQ1u0hyo7kepPMDwmPXcMSaGt2kOVHcj1J5geEx67hiTQ1u0hy o7kepPMDwmPXcMSaGt2kOVHcj1J5geEx67hiTQ1u0hbZn86R3I7pHevpMHhMeu4Yk0NbtI+1r5Sf 9kgiNhR4v5HTqyDp1ZB06sg6dWQdOrIOnVkHTqyDp1ZB06sg6dWQdOrIOnVkHTqyDp1ZB06sg6dW QdOrILBWT+R9REbaD/tf/T13DEh1tcdKTS3eJyTHaV8ISXyh11KsgtInexOeLSJ3sTni0id7E54t InexOeLSJ3sTni0id7E54tInexOeLSJ3sTni0id7E54tInexOeLSJ3sTni0id7E54tInexOeLSJ3 sTni0id7E54tInexOeLSJ3sTni0id7E54tInexOeLSJ3sTni0id7E54tInexOePxr6Ps/A0NL7Ef Xf0L1rpaF799K8P/2Q=="
+                 transform="matrix(0.24,0,0,0.24,9.5696,8.2161)"
+                 id="image294" />
+            </g>
+          </mask>
+          <g
+             style="opacity:0.12999998"
+             mask="url(#SVGID_10_)"
+             id="g303">
+            <g
+               id="g301">
+              <path
+                 style="clip-rule:evenodd;fill-rule:evenodd"
+                 inkscape:connector-curvature="0"
+                 d="m 13.508,10.216 h 35.809 c 1.071,0 1.938,0.868 1.938,1.938 v 33.435 c 0,1.07 -0.868,1.938 -1.938,1.938 H 13.508 c -1.071,0 -1.938,-0.868 -1.938,-1.938 V 12.154 c 0,-1.07 0.867,-1.938 1.938,-1.938 z"
+                 id="path299" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 19.87,33.813 c -0.118,0 -0.232,0.034 -0.331,0.098 -0.137,0.089 -0.231,0.225 -0.265,0.384 -0.034,0.159 -0.004,0.323 0.084,0.459 0.132,0.203 3.331,4.985 12.022,4.985 8.686,0 11.965,-4.776 12.1,-4.979 0.185,-0.278 0.109,-0.657 -0.169,-0.843 -0.101,-0.068 -0.218,-0.103 -0.339,-0.103 -0.204,0 -0.394,0.101 -0.508,0.269 -0.007,0.011 -0.774,1.126 -2.513,2.222 -1.603,1.01 -4.392,2.214 -8.571,2.214 -4.177,0 -6.942,-1.203 -8.527,-2.211 C 21.134,35.214 20.389,34.1 20.382,34.089 20.269,33.916 20.078,33.813 19.87,33.813 Z m 2.713,-14.082 c -0.431,0 -0.781,0.35 -0.781,0.781 v 2.646 c 0,0.431 0.351,0.781 0.781,0.781 0.431,0 0.781,-0.35 0.781,-0.781 v -2.646 c 0,-0.431 -0.351,-0.781 -0.781,-0.781 z m 17.672,0 c -0.431,0 -0.781,0.35 -0.781,0.781 v 2.646 c 0,0.431 0.35,0.781 0.781,0.781 0.431,0 0.769,-0.343 0.769,-0.781 v -2.646 c 0,-0.438 -0.338,-0.781 -0.769,-0.781 z"
+         id="path308" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot582"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion584"><rect
+           id="rect586"
+           width="378.97629"
+           height="35.010773"
+           x="106.26077"
+           y="108.69614" /></flowRegion><flowPara
+         id="flowPara588"></flowPara></flowRoot>  </g>
+</svg>

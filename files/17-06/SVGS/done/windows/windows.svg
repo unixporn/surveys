@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="580"
+   width="655"
+   version="1.1"
+   id="svg52"
+   sodipodi:docname="linux.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs56" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1580"
+     inkscape:window-height="840"
+     id="namedview54"
+     showgrid="false"
+     inkscape:zoom="1.1508772"
+     inkscape:cx="331.34272"
+     inkscape:cy="451.34278"
+     inkscape:window-x="10"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g50">
+    <inkscape:grid
+       type="xygrid"
+       id="grid74" />
+  </sodipodi:namedview>
+  <g
+     transform="translate(0,-188)"
+     id="g50">
+    <rect
+       style="fill:#f9f9f9"
+       height="580"
+       width="655"
+       y="188"
+       x="0"
+       id="rect2" />
+    <rect
+       style="fill:#414141"
+       transform="matrix(0,-1,-1,0,0,0)"
+       height="70"
+       width="5"
+       y="-216.91074"
+       x="-468.37378"
+       id="rect4" />
+    <rect
+       style="fill:#414141"
+       transform="rotate(50.16)"
+       height="70"
+       width="5"
+       y="-107.87108"
+       x="685.80908"
+       id="rect8" />
+    <circle
+       r="170"
+       style="fill:#2d2d2d"
+       cx="329.5"
+       cy="558"
+       id="circle6" />
+    <text
+       style="font-size:11.99968815px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99997407"
+       xml:space="preserve"
+       transform="scale(0.95810487,1.0437271)"
+       y="247.60223"
+       x="35.861965"
+       id="text12"><tspan
+         x="35.861965"
+         style="font-weight:bold;font-size:40px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99997407"
+         y="247.60223"
+         id="tspan10">Do you use Windows?</tspan></text>
+    <text
+       style="font-size:12.00012112px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.9591503,1.0425895)"
+       y="438.23691"
+       x="550.54364"
+       id="text16"><tspan
+         x="550.54364"
+         style="font-weight:bold;font-size:24.78725052px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         y="438.23691"
+         id="tspan14">No</tspan></text>
+    <text
+       style="letter-spacing:0px;word-spacing:0px;font-family:sans-serif;line-height:0%;fill:#f9f9f9"
+       xml:space="preserve"
+       transform="scale(.95916 1.0426)"
+       y="540.00574"
+       x="192.35634"
+       id="text20"><tspan
+         x="192.35634"
+         style="font-size:24.787px;font-weight:bold;font-family:sans-serif;line-height:0%;fill:#f9f9f9"
+         y="540.00574"
+         id="tspan18"> </tspan></text>
+    <text
+       style="letter-spacing:0px;fill-opacity:.90196;word-spacing:0px;font-family:sans-serif;line-height:0%;fill:#2d2d2d"
+       xml:space="preserve"
+       transform="scale(-.95916 1.0426)"
+       y="559.1889"
+       x="-473.85339"
+       id="text24"><tspan
+         x="-473.85339"
+         style="font-size:24.787px;font-weight:bold;fill-opacity:.90196;font-family:sans-serif;line-height:0%;fill:#2d2d2d"
+         y="559.1889"
+         id="tspan22"> </tspan></text>
+    <text
+       style="font-size:12.00012112px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.9591503,1.0425895)"
+       y="455.30292"
+       x="98.539192"
+       id="text30"><tspan
+         x="98.539192"
+         style="font-weight:bold;font-size:24.78725052px;line-height:0%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+         y="455.30292"
+         id="tspan28">Yes</tspan></text>
+    <path
+       id="circle60"
+       style="fill:#0078d6;fill-opacity:1"
+       sodipodi:type="arc"
+       sodipodi:cx="329.5"
+       sodipodi:cy="558"
+       sodipodi:rx="170"
+       sodipodi:ry="170"
+       sodipodi:start="0"
+       sodipodi:end="3.9618974"
+       d="M 499.5,558 A 170,170 0 0 1 371.58566,722.70822 170,170 0 0 1 180.33768,639.55123 170,170 0 0 1 213.56028,433.66987 L 329.5,558 Z" />
+    <text
+       style="font-size:12.00012112px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.9591503,1.0425895)"
+       y="595.92828"
+       x="210.6013"
+       id="text34"><tspan
+         x="210.6013"
+         style="font-weight:bold;font-size:33.33333588px;line-height:0%;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke-width:1.00001013"
+         y="595.92828"
+         id="tspan32">1520, 63.0%</tspan></text>
+    <text
+       style="font-size:12.00012112px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
+       xml:space="preserve"
+       transform="scale(0.95915028,1.0425895)"
+       y="470.98804"
+       x="308.71609"
+       id="text48"><tspan
+         x="308.71609"
+         style="font-weight:bold;font-size:26.66666603px;line-height:0%;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke-width:1.00001013"
+         y="470.98804"
+         id="tspan46">892, 37.0%</tspan></text>
+    <rect
+       style="color:#000000;fill:#80cc28;stroke-width:1.4545455"
+       transform="rotate(90)"
+       width="35.971046"
+       height="35.970963"
+       x="218"
+       y="-629.98224"
+       rx="0"
+       id="rect5967"
+       inkscape:export-filename="/home/josh/Code/unixporn/surveys/files/15-05/Finals/windows/why.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f1511b;stroke-width:1.4545455"
+       y="218"
+       x="550.03918"
+       height="35.971046"
+       width="35.970963"
+       rx="0"
+       id="rect5969"
+       inkscape:export-filename="/home/josh/Code/unixporn/surveys/files/15-05/Finals/windows/why.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#00adef;stroke-width:1.4545455"
+       transform="rotate(90)"
+       width="35.971046"
+       height="35.970963"
+       x="262.02896"
+       y="-586.01001"
+       rx="0"
+       id="rect5971"
+       inkscape:export-filename="/home/josh/Code/unixporn/surveys/files/15-05/Finals/windows/why.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#fbbc09;stroke-width:1.4545455"
+       y="262.02896"
+       x="594.06818"
+       height="35.971046"
+       width="35.970963"
+       rx="0"
+       id="rect5973"
+       inkscape:export-filename="/home/josh/Code/unixporn/surveys/files/15-05/Finals/windows/why.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.493896"
+       y="303.13721"
+       id="text78"><tspan
+         sodipodi:role="line"
+         id="tspan76"
+         x="36.493896"
+         y="303.13721"
+         style="font-weight:bold">It's probably quite telling that in a sub primarily for Windows</tspan><tspan
+         sodipodi:role="line"
+         x="36.493896"
+         y="319.80386"
+         style="font-weight:bold"
+         id="tspan82">geeks, ⅔ of us still use Windows. Interestingly, of the people</tspan><tspan
+         sodipodi:role="line"
+         x="36.493896"
+         y="336.47055"
+         style="font-weight:bold"
+         id="tspan86">using Windows only 29 weren't using some form of desktop *NIX.</tspan></text>
+  </g>
+</svg>

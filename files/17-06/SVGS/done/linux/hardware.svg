@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -234,17 +234,6 @@
        x="770"
        id="rect74"
        transform="rotate(90)" />
-    <text
-       id="text487"
-       x="288.49371"
-       y="706.12341"
-       transform="scale(0.95915027,1.0425895)"
-       xml:space="preserve"
-       style="font-size:26.66666603px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"><tspan
-         id="tspan485"
-         style="font-weight:bold;font-size:33.33333206px;line-height:0%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
-         x="225.58681"
-         y="706.12341">Laptop</tspan></text>
     <rect
        style="opacity:0.9;fill:#b1afe9;fill-opacity:1;stroke-width:1.00361657"
        height="417"
