@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview54"
      showgrid="true"
      inkscape:zoom="1.641415"
-     inkscape:cx="269.07502"
+     inkscape:cx="174.94892"
      inkscape:cy="175.14544"
      inkscape:window-x="10"
      inkscape:window-y="50"
@@ -123,7 +123,7 @@
          x="362.49573"
          y="600.65247"
          style="font-weight:bold;font-size:10px;line-height:40.0000006%;text-align:end;text-anchor:end;fill:#797979;fill-opacity:1"
-         id="tspan118">This was my fist real taste</tspan><tspan
+         id="tspan118">This was my first real taste</tspan><tspan
          sodipodi:role="line"
          x="362.49573"
          y="612.31525"

@@ -167,9 +167,9 @@
      inkscape:window-height="840"
      id="namedview54"
      showgrid="false"
-     inkscape:zoom="0.57543862"
-     inkscape:cx="103.51509"
-     inkscape:cy="159.32784"
+     inkscape:zoom="1.1508772"
+     inkscape:cx="294.54462"
+     inkscape:cy="362.74713"
      inkscape:window-x="10"
      inkscape:window-y="50"
      inkscape:window-maximized="0"
@@ -269,25 +269,6 @@
        y="301.43112"
        style="font-weight:bold;font-size:33.33333588px;line-height:0%;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke-width:1.00001013"
        x="228.71948">1948, 80.8%</tspan></text>
-  <text
-     id="text42"
-     x="43.258862"
-     y="99.714371"
-     transform="scale(0.95810486,1.0437271)"
-     xml:space="preserve"
-     style="font-size:11.99968815px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#676767;fill-opacity:0.90196001;stroke-width:0.99997407"><tspan
-       id="tspan36"
-       y="99.714371"
-       style="font-weight:bold;font-size:13.332654px;line-height:120.00000477%;font-family:sans-serif;fill:#676767;fill-opacity:0.90196001;stroke-width:0.99997407"
-       x="43.258862">It's almost as if Linux is super popular in the sub. Who'd have thought</tspan><tspan
-       id="tspan38"
-       y="115.71396"
-       style="font-weight:bold;font-size:13.332654px;line-height:120.00000477%;font-family:sans-serif;fill:#676767;fill-opacity:0.90196001;stroke-width:0.99997407"
-       x="43.258862">it? Out of interest I looked at what OS the people who don't use Linux</tspan><tspan
-       id="tspan40"
-       y="131.71355"
-       style="font-weight:bold;font-size:13.332654px;line-height:120.00000477%;font-family:sans-serif;fill:#676767;fill-opacity:0.90196001;stroke-width:0.99997407"
-       x="43.258862">use: 17% use BSD, 59% use macOS, and 53% use Windows.</tspan></text>
   <text
      id="text48"
      x="408.36603"
@@ -515,4 +496,25 @@
        style="font-weight:bold;font-size:26.66666603px;line-height:0%;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke-width:1.00001013"
        x="394.9729"
        id="tspan258-5">19.2%</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:55.50000072%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="41.918148"
+     y="112.63283"
+     id="text100"><tspan
+       sodipodi:role="line"
+       id="tspan98"
+       x="41.918148"
+       y="112.63283"
+       style="font-weight:bold;font-size:12px;line-height:55.50000072%;fill:#757575;fill-opacity:1">If you were one of the silly people who insisted on putting your macOS</tspan><tspan
+       sodipodi:role="line"
+       x="41.918148"
+       y="127.43283"
+       style="font-weight:bold;font-size:12px;line-height:55.50000072%;fill:#757575;fill-opacity:1"
+       id="tspan102">data in the BSD section then you got a nasty surprise when you got to</tspan><tspan
+       sodipodi:role="line"
+       x="41.918148"
+       y="142.23283"
+       style="font-weight:bold;font-size:12px;line-height:55.50000072%;fill:#757575;fill-opacity:1"
+       id="tspan104">this question. Probably your fault for being a pedant.</tspan></text>
 </svg>

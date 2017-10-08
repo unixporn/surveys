@@ -11,7 +11,7 @@
    width="655"
    version="1.1"
    id="svg52"
-   sodipodi:docname="linux.svg"
+   sodipodi:docname="windows.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata58">
@@ -39,9 +39,9 @@
      inkscape:window-height="840"
      id="namedview54"
      showgrid="false"
-     inkscape:zoom="1.1508772"
-     inkscape:cx="331.34272"
-     inkscape:cy="451.34278"
+     inkscape:zoom="0.81379307"
+     inkscape:cx="388.40817"
+     inkscape:cy="347.902"
      inkscape:window-x="10"
      inkscape:window-y="50"
      inkscape:window-maximized="0"
@@ -59,7 +59,10 @@
        width="655"
        y="188"
        x="0"
-       id="rect2" />
+       id="rect2"
+       inkscape:export-filename="/home/josh/Code/reddit/surveys/files/17-06/PNGs/windows/windows.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="fill:#414141"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -226,7 +229,7 @@
          id="tspan76"
          x="36.493896"
          y="303.13721"
-         style="font-weight:bold">It's probably quite telling that in a sub primarily for Windows</tspan><tspan
+         style="font-weight:bold">It's probably quite telling that in a sub primarily used by Linux</tspan><tspan
          sodipodi:role="line"
          x="36.493896"
          y="319.80386"

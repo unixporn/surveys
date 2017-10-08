@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,8 +81,8 @@
      id="namedview242"
      showgrid="false"
      inkscape:zoom="0.81403512"
-     inkscape:cx="567.20946"
-     inkscape:cy="433.53066"
+     inkscape:cx="265.62542"
+     inkscape:cy="346.31084"
      inkscape:window-x="10"
      inkscape:window-y="50"
      inkscape:window-maximized="0"
@@ -100,7 +100,10 @@
        width="880"
        y="480"
        x="0"
-       id="rect2" />
+       id="rect2"
+       inkscape:export-filename="/home/josh/Code/reddit/surveys/files/17-06/PNGs/macos/browser.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        style="font-size:12.00012112px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:1.00001013"
        xml:space="preserve"
@@ -547,7 +550,7 @@
          x="36.67812"
          y="600.34521"
          style="font-weight:bold"
-         id="tspan1789">other system we asked htis question for, including Windows.</tspan><tspan
+         id="tspan1789">other system we asked this question for, including Windows.</tspan><tspan
          sodipodi:role="line"
          x="36.67812"
          y="623.67859"

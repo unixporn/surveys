@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,9 +80,9 @@
      inkscape:window-height="840"
      id="namedview242"
      showgrid="false"
-     inkscape:zoom="0.57560975"
-     inkscape:cx="535.17502"
-     inkscape:cy="497.29225"
+     inkscape:zoom="0.28780488"
+     inkscape:cx="-12.700499"
+     inkscape:cy="450.81767"
      inkscape:window-x="10"
      inkscape:window-y="50"
      inkscape:window-maximized="0"
@@ -98,7 +98,10 @@
      y="0"
      width="1090"
      height="860"
-     style="fill:#f9f9f9;stroke-width:0.99616045" />
+     style="fill:#f9f9f9;stroke-width:0.99616045"
+     inkscape:export-filename="/home/josh/Code/reddit/surveys/files/17-06/PNGs/macos/editor.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <rect
      id="rect8-9-2-0-1"
      x="175"
@@ -382,7 +385,7 @@
        id="tspan110"
        style="font-weight:bold;font-size:14.99987316px;line-height:120.00000477%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
        x="699.57672"
-       y="445.52689">forgotten shar. Here they are!</tspan><tspan
+       y="445.52689">forgotten share. Here they are!</tspan><tspan
        id="tspan112"
        style="font-weight:bold;font-size:14.99987316px;line-height:120.00000477%;font-family:sans-serif;fill:#2d2d2d;fill-opacity:0.90196001;stroke-width:0.99999154"
        x="699.57672"
