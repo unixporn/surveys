@@ -13,12 +13,12 @@ These are the emoji whiich survived the great emoji cull. All others died.
 11. 12 votes <img alt="linuxpuppy" src="https://cdn.discordapp.com/emojis/401501577757589514.png?v=1">
 12. 11 votes, <img alt="terry" src="https://cdn.discordapp.com/emojis/488539343665758218.png?v=1">
 13. 11 votes, <img alt="roodab" src="https://cdn.discordapp.com/emojis/479143304588689423.png?v=1">
-14 votes, <img alt="absolutely_proprietary" src="https://cdn.discordapp.com/emojis/408735816160903185.png?v=1">
+14. 11 votes, <img alt="absolutely_proprietary" src="https://cdn.discordapp.com/emojis/408735816160903185.png?v=1">
 15. 10 votes, <img alt="rooclose" src="https://cdn.discordapp.com/emojis/479143304639021076.png?v=1">
 16. 10 votes, <img alt="rooaww" src="https://cdn.discordapp.com/emojis/479143304303476779.png?v=1">
 17. 10 votes, <img alt="FeelsHackyMan" src="https://cdn.discordapp.com/emojis/413105408035651584.png?v=1">
 18. 10 votes, <img alt="peek" src="https://cdn.discordapp.com/emojis/451162836551598080.png?v=1">
-19 10 votes, <img alt="rms" src="https://cdn.discordapp.com/emojis/391460459632656384.png?v=1">
+19. 10 votes, <img alt="rms" src="https://cdn.discordapp.com/emojis/391460459632656384.png?v=1">
 20. 9 votes, <img alt="rooyay" src="https://cdn.discordapp.com/emojis/479143303976189971.png?v=1">
 21. 9 votes, <img alt="roowut" src="https://cdn.discordapp.com/emojis/479143304659861515.png?v=1">
 22. 8 votes, <img alt="rooree" src="https://cdn.discordapp.com/emojis/479143304710062080.png?v=1">
