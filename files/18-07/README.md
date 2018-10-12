@@ -1,0 +1,3 @@
+I spoke last year about how data validation was increasingly becoming the part of formatting the responses which takes up the most time. Some changes were made going into this year to make that less of a problem but then the sheer number of responses (3,500 over the month!) all but negated that.
+
+As another change to last year, if you were pissing about in your first few questions or otherwise were directing abuse at either me or another mod then I just deleted your response. I don't have the time nor will to check if the rest of your answers are legit anymore. To be frank this actually made the survey nicer to run too. For full transparency these deleted responses will still be included in the data dump.
