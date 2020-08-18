@@ -1,0 +1,36 @@
+! special
+URxvt.foreground:   rgb:ff/ff/ff
+URxvt.background:   rgb:1b/1b/1b
+URxvt.cursorColor:  rgb:82/a5/42
+
+! black
+URxvt.color0:       rgb:1b/1b/1b
+URxvt.color8:       rgb:37/3b/41
+
+! red
+URxvt.color1:       rgb:9e/a5/42
+URxvt.color9:       rgb:a5/aa/5e
+
+! green
+URxvt.color2:       rgb:82/a5/42
+URxvt.color10:      rgb:8c/a7/5a
+
+! yellow
+URxvt.color3:       rgb:49/a5/42
+URxvt.color11:      rgb:5a/aa/53
+
+! blue
+URxvt.color4:       rgb:42/a5/5d
+URxvt.color12:      rgb:58/ae/6e
+
+! magenta
+URxvt.color5:       rgb:42/a5/8d
+URxvt.color13:      rgb:59/a8/95
+
+! cyan
+URxvt.color6:       rgb:42/89/a5
+URxvt.color14:      rgb:58/92/a9
+
+! white
+URxvt.color7:       rgb:88/88/88
+URxvt.color15:      rgb:d5/d5/d5
